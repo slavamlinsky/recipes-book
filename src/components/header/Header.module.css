@@ -1,0 +1,20 @@
+.header {
+  padding: 1em;
+  display: flex;
+  justify-content: end;
+}
+
+.count {
+  background-color: chocolate;
+  padding: 0.25em;
+  border-radius: 1em;
+  width: 1em;
+  height: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
